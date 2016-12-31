@@ -1,0 +1,7 @@
+Paint Program
+===============
+The program contains six main shapes (Line, Ellipse, Circle, Triangle, Rectangle, Square).
+The program allows shapes selection, resizing, moving, deleting, coloring.
+The program supports undoing and redoing.
+The program also supports saving and loading in XML and JSON format.
+The program supports dynamic class loading such any class that inherit from abstract class 'Shape', can be loaded to the program to be drawn.
